@@ -57,6 +57,8 @@ Consequently, the results can be further increased by adding new parameters to t
 
 # References
 
+https://github.com/SuperCowPowers/data_hacking/tree/master/dga_detection
+
 [1]	Garera, S., Provos, N., Chew, M., & Rubin, A. D. (2007,November). A framework for detection and measurement ofphishing attacks. In Proceedings of the 2007 ACM workshop onRecurring malcode (pp. 1-8). ACM. 
 
 [2]	A. Stone, “Natural-language processing for intrusion detection,”Com- puter, vol. 40, no. 12, pp. 103 –105, dec. 2007.
